@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="0.70.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@aws-sdk/middleware-retry/node_modules/react-native/android/com/facebook/react/react-native/0.70.1/react-native-0.70.1-release-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@aws-sdk/middleware-retry/node_modules/react-native/android/com/facebook/react/react-native/0.70.1/react-native-0.70.1-debug-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

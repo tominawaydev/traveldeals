@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-traveldeals-dev-105456-authRole",
+      "UnauthRoleArn": "arn:aws:iam::611061137602:role/amplify-traveldeals-dev-105456-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::611061137602:role/amplify-traveldeals-dev-105456-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-traveldeals-dev-105456-deployment",
+      "UnauthRoleName": "amplify-traveldeals-dev-105456-unauthRole",
+      "StackName": "amplify-traveldeals-dev-105456",
+      "StackId": "arn:aws:cloudformation:us-west-2:611061137602:stack/amplify-traveldeals-dev-105456/da60d360-40cf-11ed-8c05-028b64e370ff",
+      "AmplifyAppId": "d3njxok0oxozbt"
+    },
+    "categories": {
+      "auth": {
+        "traveldeals6cd7e331": {}
+      }
+    }
+  }
+}

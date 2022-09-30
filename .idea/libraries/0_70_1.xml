@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="0.70.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@aws-sdk/middleware-retry/node_modules/react-native/android/com/facebook/react/hermes-engine/0.70.1/hermes-engine-0.70.1-release-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@aws-sdk/middleware-retry/node_modules/react-native/android/com/facebook/react/hermes-engine/0.70.1/hermes-engine-0.70.1-debug-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
