@@ -13,7 +13,25 @@
     },
     "categories": {
       "auth": {
-        "traveldeals6cd7e331": {}
+        "traveldeals6cd7e331": {},
+        "true": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3njxok0oxozbt",
+          "type": "manual"
+        }
+      },
+      "storage": {
+        "facevalues": {
+          "tableName": "face_values",
+          "region": "us-west-2",
+          "arn": "arn:aws:dynamodb:us-west-2:611061137602:table/face_values",
+          "partitionKeyName": "pk",
+          "partitionKeyType": "S",
+          "sortKeyName": "sk",
+          "sortKeyType": "N"
+        }
       }
     }
   }

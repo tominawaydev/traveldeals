@@ -2,10 +2,14 @@
 # all models in this schema. Learn more about authorization rules here: https://docs.amplify.aws/cli/graphql/authorization-rules
 input AMPLIFY { globalAuthRule: AuthRule = { allow: public } } # FOR TESTING ONLY!
 
-type Face @model @auth(rules: [{ allow: owner, operations: [create, delete, update] },]) {
+type Deal @model @auth(rules: [{ allow: owner, operations: [create, delete, update, get, list] },]) {
   id: ID!
-  age_high: Int!
-  age_low: Int!
-  gender: String!
-  timestamp: String!
+  name: String!
+  category: String
+}
+
+type FaceValue @model @auth(rules: [{ allow: owner, operations: [create, delete, update, get, list] },]) {
+  id: ID!
+  name: String!
+  category: String
 }
